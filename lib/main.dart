@@ -383,7 +383,7 @@ class _LoginPageState extends State<LoginPage> {
                     ),
                     const SizedBox(height: 20),
                     Text(
-                      'Un portfolio personnel, tout simplement.',
+                      'Un CV, tout simplement.',
                       style: TextStyle(
                         color: _ink.withValues(alpha: 0.56),
                         fontSize: 12,
@@ -474,7 +474,7 @@ class _PortfolioShellState extends State<PortfolioShell> {
                 const _ProfileAvatar(size: 76),
                 const SizedBox(height: 13),
                 const Text(
-                  'Precious Muhindo',
+                  'Michée KADIMA',
                   style: TextStyle(
                     color: _ink,
                     fontSize: 18,
@@ -627,7 +627,7 @@ class ResumePage extends StatelessWidget {
               ),
               const SizedBox(height: 15),
               const Text(
-                'Precious Muhindo',
+                'Michée KADIMA',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   color: _ink,
@@ -1796,7 +1796,7 @@ class _BrandMark extends StatelessWidget {
         ),
         const SizedBox(height: 13),
         const Text(
-          'PRECIOUS',
+          'MICHÉE',
           style: TextStyle(
             color: _ink,
             fontSize: 14,

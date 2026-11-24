@@ -1,4 +1,4 @@
-# CV Flutter — Precious Muhindo
+# CV Flutter — Michée KADIMA
 
 Application de portfolio/CV personnel développée avec Flutter. Elle présente
 un profil, un parcours, des compétences, des centres d’intérêt, des informations
@@ -7,7 +7,7 @@ translucides, des dégradés et une navigation adaptée aux petits et grands éc
 
 ## Résumé du profil
 
-Precious Muhindo est étudiant en informatique et développeur en devenir, basé à
+Michée KADIMA est étudiant en informatique et développeur en devenir, basé à
 Goma, en République démocratique du Congo. Curieux et motivé, il s’intéresse à
 la création d’expériences numériques utiles et accessibles.
 

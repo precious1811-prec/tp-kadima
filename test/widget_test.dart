@@ -25,6 +25,6 @@ void main() {
 
     await tester.pumpWidget(const MaterialApp(home: PortfolioShell()));
     expect(find.text('Mon CV'), findsWidgets);
-    expect(find.text('Precious Muhindo'), findsOneWidget);
+    expect(find.text('Michée KADIMA'), findsOneWidget);
   });
 }
